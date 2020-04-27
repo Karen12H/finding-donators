@@ -1,1 +1,1 @@
-# finding-donators
+# finding-donors
